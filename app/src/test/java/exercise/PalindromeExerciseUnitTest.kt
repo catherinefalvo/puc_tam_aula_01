@@ -38,4 +38,12 @@ PalindromeExerciseUnitTest {
         val result = exercise.isPalindrome("hello")
         assertFalse(result)
     }
+
+    @Test
+    fun testIsPalindrome_PalindromeFirstCharacterUpper() {
+        val exercise = PalindromeExercise()
+
+        val result = exercise.isPalindrome("Arara")
+        assertTrue(result)
+    }
 }
