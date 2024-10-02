@@ -13,3 +13,7 @@ Este projeto foi criado com o propósito de oferecer aos estudantes uma oportuni
 Este projeto oferece um ambiente para os estudantes praticarem esses exercícios e aprimorarem suas habilidades em testes unitários em aplicativos Android usando Kotlin.
 
 Divirta-se praticando! 🚀
+
+## Evidências de Teste (Aula 01/10/2024)
+
+![image](https://github.com/user-attachments/assets/7cfbfed7-1111-4834-96cf-df8b4a029fd9)
